@@ -4,13 +4,13 @@ A Python utility for converting EU4 save and config files to a JSON-encoded stri
 
 ##Requirements
 
--	Python 3.x
--	PyParsing library
+- Python 3.x
+- PyParsing library
 
 ##Usage example
 
-from eu4_parser import *
-import os
+	from eu4_parser import *
+	import os
 
 	filename = 	'c:\\MySaveFolder\\my_save_file.eu4'
 	parser = EU4Parser()
