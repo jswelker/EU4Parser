@@ -1,6 +1,6 @@
 #EU4Parser
 
-This is a utility for converting EU4 save and config files to a JSON-encoded string. It utilizes the PyParsing library to parse the files.
+A Python utility for converting EU4 save and config files to a JSON-encoded string. It utilizes the PyParsing library to parse the files.
 
 ##Requirements
 
